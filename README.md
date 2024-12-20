@@ -37,7 +37,7 @@
 <p>For more information on the importance and benefits of NAICS codes, you can refer to the following sources:</p>
 
 <ul>
-    <li><a href="https://www.ask.com/news/understanding-importance-naics-code-lookup-businesses">Understanding the Importance of NAICS Code Lookup for Businesses</a> [1]</li>
+    <li><a href="https://www.ranlab.ca/post/naics-and-noc">NAICS and NOC: What You Should Know</a> [1]</li>
     <li><a href="https://www.ibisworld.com/classifications/resources/what-is-a-naics-code-and-why-do-i-need-one/">What is a NAICS Code and Why Do I Need One?</a> [2]</li>
     <li><a href="https://info.winvale.com/blog/unlock-business-potential-with-the-right-naics-code/">Unlock Business Potential with the Right NAICS Code</a> [3]</li>
     <li><a href="https://info.winvale.com/blog/identify-your-best-opportunities-with-naics-codes">Identify Your Best Opportunities with NAICS Codes</a> [4]</li>
